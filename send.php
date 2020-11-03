@@ -7,7 +7,7 @@ $subject = $_POST['subject'];
 $message= $_POST['message'];
 
 echo "$name";
-$to = "kelvingauki@gmail.com";
+$to = "info@njerunyaga.co.ke";
 $subject = 'Form Submission';
 $msg ="Name:".$name."Tel:".$number."wrote the following:".$message;
 $headers ="From: ".$email;
