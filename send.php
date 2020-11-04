@@ -79,9 +79,7 @@
                                 <ul>
                                     <li><a href="index.html">Home</a></li>
                                     <li><a href="about.html">About Us</a></li>
-                                    
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="#">What we Offer</a>
+                                    <li><a href="services.html">Our Services</a>
                                         <div class="megamenu">
                                             <ul class="single-mega cn-col-4">
                                                 <li><a href="audit.html">Auditing Services</a></li>
@@ -99,6 +97,7 @@
                                             </ul>
                                         </div>
                                     </li>
+                                    <li><a href="book.html">Book Appointment</a></li>
                                    
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul>
