@@ -107,7 +107,7 @@
 
                         <!-- Contact -->
                         <div class="contact">
-                            <a href="#"><img src="img/core-img/call2.png" alt=""> +254 722 707233</a>
+                            <a href="#"><img src="img/core-img/call2.png" alt=""> 020 5209415</a>
                         </div>
                     </nav>
                 </div>
@@ -174,7 +174,7 @@ else {
     
     
 
-      <!-- ##### Footer Area Start ##### -->
+     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area section-padding-100-0">
         <div class="container">
             <div class="row">
@@ -216,9 +216,9 @@ else {
                         <!-- Nav -->
                         <nav>
                             <ul style="color: white">
-                            <li><i class="flaticon-032-placeholder"></i>P.O Box 1234, Block H, Showbe Plaza, 2nd Flr, Murang'a Rd /Forest Rd ,Nairobi - Kenya</li>
+                            <li><i class="flaticon-032-placeholder"></i>P.O Box 42764 -00100, Block C, Showbe Plaza, 2nd Flr, Murang'a Rd /Forest Rd ,Nairobi - Kenya</li>
                              <li><i class="flaticon-025-arroba"></i>info@njerunyaga.com</li>
-                              <p style="color: white">+254 722 707233</p>
+                              <p style="color: white"> 020 5209415 | +254 722 707233</p>
                             <li><i class="flaticon-038-wall-clock"></i>Everyday: 08:00 -18:00 pm</li>
                         </ul>
                         </nav>
@@ -233,7 +233,7 @@ else {
                         <!-- Single News Area -->
                         <div class="single-latest-news-area d-flex align-items-center">
                             <div class="news-thumbnail">
-                                <img src="img/bg-img/7.jpg" alt="">
+                                <img src="img/bg-img/about-02.png" alt="">
                             </div>
                             <div class="news-content">
                                 <a href="#">How to Manage your Tax</a>
@@ -247,7 +247,7 @@ else {
                         <!-- Single News Area -->
                         <div class="single-latest-news-area d-flex align-items-center">
                             <div class="news-thumbnail">
-                                <img src="img/bg-img/8.jpg" alt="">
+                                <img src="img/bg-img/acc.png" alt="">
                             </div>
                             <div class="news-content">
                                 <a href="#">A new way to get a loan</a>
@@ -261,7 +261,7 @@ else {
                         <!-- Single News Area -->
                         <div class="single-latest-news-area d-flex align-items-center">
                             <div class="news-thumbnail">
-                                <img src="img/bg-img/9.jpg" alt="">
+                                <img src="img/bg-img/about-01.png" alt="">
                             </div>
                             <div class="news-content">
                                 <a href="#">Finance Your Business</a>
