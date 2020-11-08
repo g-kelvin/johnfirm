@@ -166,7 +166,7 @@ else {
     }
     else
     {
-        echo "try again";
+        echo "Message is Not Sent";
     }
 
  ?>
