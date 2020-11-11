@@ -174,7 +174,7 @@ else {
     
     
 
-     <!-- ##### Footer Area Start ##### -->
+<!-- ##### Footer Area Start ##### -->
     <footer class="footer-area section-padding-100-0">
         <div class="container">
             <div class="row">
@@ -228,7 +228,7 @@ else {
                 <!-- Single Footer Widget -->
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="single-footer-widget mb-100">
-                        <h5 class="widget-title">Latest News</h5>
+                        <h5 class="widget-title">More</h5>
 
                         <!-- Single News Area -->
                         <div class="single-latest-news-area d-flex align-items-center">
@@ -236,10 +236,10 @@ else {
                                 <img src="img/bg-img/about-02.png" alt="">
                             </div>
                             <div class="news-content">
-                                <a href="#">How to Manage your Tax</a>
+                                <a href="#">File Your KRA Tax</a>
                                 <div class="news-meta">
-                                    <a href="#" class="post-author"><img src="img/core-img/pencil.png" alt=""> Jane Smith</a>
-                                    <a href="#" class="post-date"><img src="img/core-img/calendar.png" alt=""> April 26</a>
+                                    <a href="#" class="post-author"><img src="img/core-img/pencil.png" alt=""> Jackline Murugi</a>
+                                        <a href="#" class="post-date"> January 06,2020</a>
                                 </div>
                             </div>
                         </div>
@@ -250,10 +250,10 @@ else {
                                 <img src="img/bg-img/acc.png" alt="">
                             </div>
                             <div class="news-content">
-                                <a href="#">A new way to get a loan</a>
+                                <a href="#">Get Audit Services</a>
                                 <div class="news-meta">
-                                    <a href="#" class="post-author"><img src="img/core-img/pencil.png" alt=""> Jane Smith</a>
-                                    <a href="#" class="post-date"><img src="img/core-img/calendar.png" alt=""> April 26</a>
+                                    <a href="#" class="post-author"><img src="img/core-img/pencil.png" alt=""> Jackline Murugi</a>
+                                    <a href="#" class="post-date"> May 18, 2020</a>
                                 </div>
                             </div>
                         </div>
@@ -264,10 +264,10 @@ else {
                                 <img src="img/bg-img/about-01.png" alt="">
                             </div>
                             <div class="news-content">
-                                <a href="#">Finance Your Business</a>
+                                <a href="#">Get Payroll Services</a>
                                 <div class="news-meta">
-                                    <a href="#" class="post-author"><img src="img/core-img/pencil.png" alt=""> Jane Smith</a>
-                                    <a href="#" class="post-date"><img src="img/core-img/calendar.png" alt=""> April 26</a>
+                                    <a href="#" class="post-author"><img src="img/core-img/pencil.png" alt=""> Jackline Murugi</a>
+                                    <a href="#" class="post-date"> April 27,2020</a>
                                 </div>
                             </div>
                         </div>
